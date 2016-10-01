@@ -29,5 +29,4 @@ public class PapelMoedaTeste {
         assertEquals(5, b.getValor());
     }
     
-    
 }
